@@ -6,7 +6,7 @@ int N = Convert.ToInt32(Console.ReadLine());
 
 int i = 1;
 
-Console.WriteLine("Наши четные числа диапазона от 0 до введенного вами  " +N);
+Console.WriteLine("Наши четные числа диапазона от 1 до введенного вами  " +N);
 
 while  (i <= N) 
 {
